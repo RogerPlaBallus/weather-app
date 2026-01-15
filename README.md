@@ -1,3 +1,6 @@
+Try it now, click here:
+https://rogerplaballus.github.io/weather-app/
+
 Weather app made with html, css and javascript using an API. How does it work?
 
 ![app](https://github.com/user-attachments/assets/731ff229-0808-45fa-a9c9-00fb5d03e920)
